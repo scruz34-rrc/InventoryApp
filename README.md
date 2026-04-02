@@ -1,1 +1,3 @@
 # InventoryApp
+
+Final project repository.
